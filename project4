@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ZodiacQueen_.com/AboutUs</title>
+        <link href="C:\Users\tyler\OneDrive\Documents\css\css\style.css" rel="stylessheet">
+        <style>
+ body{
+    margin: o;
+    padding: 0px;
+    top: 0;
+    border: 0;
+    background-color: rgb(73, 3, 73);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav{
+    background-color: rgb(73, 3, 73);
+    overflow: none;
+    height: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav a {
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    padding: 15px 30px;
+    text-decoration: none;
+    float:left;
+}
+nav a, nav .dropdown button {
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+    float: left;
+}
+nav .dropdown{
+    overflow: hidden;
+    float: left;
+    text-align: center;
+}
+nav .dropdown:hover, nav a:hover {
+    background-color:rgb(134, 21, 134);
+}
+nav .dropdown button{
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    background-color: inherit;
+    border: none;
+    outline: none;
+    font-family: inherit;
+    padding: 15px 30px;
+}
+nav .dropdown button:hover {
+    cursor: pointer;
+}
+nav .dropdown .dropdown-content {
+    display: none;
+}
+nav .dropdown:hover .dropdown-content {
+    display: block;
+}
+nav .dropdown .dropdown-content a{
+    float: none;
+    padding: 12px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    color: black;
+}  
+#right{
+    float: right;
+}
+#text{
+    text-align: center;
+    background-color: rgb(73, 4, 73);
+    color: white;
+}
+        
+        
+        
+        </style>
+    </head>
+    <body>
+        <nav>
+            <a href="#home" id="main-icon"><img src="C:\Users\tyler\OneDrive\Desktop\cancer-characteristics-symbol.jpg" height="35px" width="35px"></a>
+
+            
+            
+            <div href="#shop" class="dropdown">
+                <button>Shop</button>
+                <div class="dropdown-content">
+                    <a href="#store">Store</a>
+                    <a href="#newrealease">New Realease</a>
+                </div>
+            </div>
+            <a href="#contact">Contact Us</a>
+            
+            <a href="#about">About Us</a>
+            
+            <a id="right" href="#shop-cart"> Cart</a>
+            
+        </nav>
+        <div id="text">
+            <p><h1>About Zodiac Queen</h1></p>
+            <p>Hey my name is Zodiac Queen. You can call me Zodiac Queen, Queen, or Alyssa.</p>
+            <p>I am going to tell you a little about myself. I was born June 27 1995. I started streaming about 2 months ago. </p>
+            <p><h1>METHODS OF PAYMENT</h1></p>
+            <p>We accept Visa, Mastercard, American Express, Discover, and Paypal.</p>
+            <p><h1>SHIPPING INFORMATION</h1></p>
+            <p>Domestic US Shipping: We use a mixture of USPS First Class Mail, USPS Priority Mail, and UPS Ground for domestic orders. Shipping prices are calculated by weight, zip code, and dimensions. The US rates below are maximum shipping charges. Most orders will have a lower price option. Customers in Alaska and Hawaii please allow 5-7 business days for USPS Priority Mail delivery. Shipping is calculated during the checkout process once you enter the state and zip code of the shipping address.</p>
+            <p>International Shipping: We use USPS First Class mail for all international orders weighing 4 pounds or less. We use USPS Global Priority Mail for all orders weighing more than 4 pounds. Refer to the tables below for international shipping prices. Please note: On January 17, 2016 the United States Postal Service increased all international First Class and Priority Mail rates. The rate increases are significant. Our shipping prices are exactly what USPS charges us for shipping. We do not profit off shipping prices.</p>
+            <img src="https://images.squarespace-cdn.com/content/v1/56d47d13e32140fc7fcc83a5/1528297186574-PCJNLHJ8D80UDVMG8PR7/ke17ZwdGBToddI8pDm48kGB1T_gTWxYyFIYFi7b0uoJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIaIpZmcQtF58uT0GnpmNjjdS2QNznWbgQ5_FhmXj6SXIKMshLAGzx4R3EDFOm1kBS/shipping-rates180606-PH%26BW.jpg?format=1000w">
+            <p>How to Save Money on International Shipping: As you can see in the tables above, USPS charges the same postage rate for 9 ounces to 2 pounds. To reduce your "per piece" shipping cost, order as close to 2 pounds as possible. Example: To ship 2 large shirts to Europe costs $23.49 for shipping or $11.75 per shirt. An order for 4 large shirts going to Europe costs the same $23.49 to ship, but the per piece shipping cost reduces to $5.88 per shirt. Garment weights are listed on the Garment Sizing page. There is a link to the page in each product description or you can click here.</p>
+            <p>Undeliverable and Unclaimed Orders: If your order is returned to us as unclaimed or undeliverable, we will notify you and offer to ship it to you again, but you will need to pay 50% of the original shipping charge. If you refuse the 50% shipping charge or do not reply to the notification we will issue a credit for the merchandise portion of your order. We will not refund the original shipping charge. </p>
+            <p><h1>PACKAGING MATERIALS</h1></p>
+            <p>All of our packaging material is environmentally friendly. Our poly mailers are made of recycled plastic and are reusable (please reuse them). Our cardboard mailers and boxes are made of recycled material. Our packing peanuts are biodegradable.  Our bubblewrap is made of recycled plastic. We reuse paper packing material and boxes whenever possible.</p>
+            <p><h1>GARMENT INFORMATION & SIZING</h1></p>
+            <p>We sell the best quality garments we can. Quality is our top priority. We want you to love your ZodiacQueen_ clothing and wear it often.</p>
+            <p><h1>Refund/Return Policy:</h1></p>
+            <p>NO RETURNS OR REFUNDS. ALL SALES ARE FINAL.  ALL PRODUCTS ARE MADE AT THE TIME OF YOUR ORDER. WE DO NOT  STOCK INVENTORY.  ONCE AN ORDER IS PLACED IT IS FINAL.</p>
+            <P><H3>ERRORS UPON RECEIVING PRODUCT</H3></P>
+            <p>IF AN ITEM IS RECEIVED DAMAGED OR IS  INCORRECTLY SHIPPED BY US PLEASE CONTACT US IMMEDIATELY! ITEMS THAT ARE  DEFECTIVE AND SHIPPED FROM US OR ITEMS THAT YOU DID NOT ORDER BUT  RECEIVED FROM US WILL QUALIFY FOR STORE CREDIT OR A REFUND.</p>
+            <p>PLEASE SEND AN EMAIL TO ZodiacQueen_@gmaill.com WITH YOUR ORDER NUMBER AND A PHOTO OF THE DEFECTIVE / WRONG PRODUCT. </p>
+            
+     
+     
+     
+        </div>
+        
+
+
+
+    </body>
+</html>
