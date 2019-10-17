@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>the great.com</title>
+        <link href="C:\Users\tyler\OneDrive\Documents\css\css\style.css" rel="stylessheet">
+        <style>
+ body{
+    margin: o;
+    padding: 0px;
+    top: 0;
+    border: 0;
+    background-color: rgb(73, 3, 73);
+}
+nav{
+    background-color: rgb(73, 3, 73);
+    overflow: none;
+    height: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav a {
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    padding: 15px 30px;
+    text-decoration: none;
+    float:left;
+}
+nav a, nav .dropdown button {
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+    float: left;
+}
+nav .dropdown{
+    overflow: hidden;
+    float: left;
+    text-align: center;
+}
+nav .dropdown:hover, nav a:hover {
+    background-color:rgb(134, 21, 134);
+}
+nav .dropdown button{
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    background-color: inherit;
+    border: none;
+    outline: none;
+    font-family: inherit;
+    padding: 15px 30px;
+}
+nav .dropdown button:hover {
+    cursor: pointer;
+}
+nav .dropdown .dropdown-content {
+    display: none;
+}
+nav .dropdown:hover .dropdown-content {
+    display: block;
+}
+nav .dropdown .dropdown-content a{
+    float: none;
+    padding: 12px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    color: black;
+}  
+#right{
+    float: right;
+}
+div{
+    text-align: center;
+    background-color: rgb(73, 4, 73);
+    color: white;
+    line-height: 250%;
+ }     
+ ul{
+     list-style: none;
+ }
+        
+        
+        
+        </style>
+    </head>
+    <body>
+        <nav>
+            <a href="#home" id="main-icon"><img src="C:\Users\tyler\OneDrive\Desktop\cancer-characteristics-symbol.jpg" height="35px" width="35px"></a>
+
+            
+            
+            <div href="#shop" class="dropdown">
+                <button>Shop</button>
+                <div class="dropdown-content">
+                    <a href="#store">Store</a>
+                    <a href="#newrealease">New Realease</a>
+                </div>
+            </div>
+            <a href="#contact">Contact Us</a>
+            
+            <a href="#about">About Us</a>
+            
+            <a id="right" href="#shop-cart">Cart</a>
+            
+        </nav>
+        <div id="#text">
+            <p><h1>Contact Us</h1></p>
+        
+            <ul>
+                
+                <li><span class="social-media">Twitch</span></li>
+                <li><span class="social-media">YouTube</span></li>
+                <li><span class="social-media">Twitter</span></li>
+                <li><span class="social-media">Facebook</span></li>
+                <li><span class="social-media">Instgram</span></li>
+                <li><span class="social-media">Become a Patron</span></li>
+                <li><span class="social-media">Email</span></li>
+            </ul>    
+        </div>
+
+
+
+    </body>
+</html>
