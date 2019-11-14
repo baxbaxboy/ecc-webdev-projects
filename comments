@@ -4,11 +4,6 @@
     
 <script src="https://apis.google.com/js/api.js"></script>
 <script>
-  /**
-   * Sample JavaScript code for youtube.commentThreads.list
-   * See instructions for running APIs Explorer code samples locally:
-   * https://developers.google.com/explorer-help/guides/code_samples#javascript
-   */
 
   function loadClient() {
     gapi.client.setApiKey("AIzaSyAFWyexbHV6A8D54iIFQ5rizn5LjcQFy2I ");
@@ -16,7 +11,7 @@
         .then(function() { console.log("AIzaSyAFWyexbHV6A8D54iIFQ5rizn5LjcQFy2I"); },
               function(err) { console.error("Error loading GAPI client for API", err); });
   }
-  // Make sure the client is loaded before calling this method.
+
   function execute() {
     return gapi.client.youtube.commentThreads.list({
       "part": "snippet,replies",
