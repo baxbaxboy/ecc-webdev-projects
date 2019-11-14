@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<head>
+    <script>
+        MimeMessage (String ="tylermule74@gmail.com",
+                    String ="tylermule74@gmail.com",
+                    String ="tje",
+                    String = "the")
+        throws 
+        Properties = new Properties();
+        Session = Session.getDefaultInstance(props, null);
+
+        MimeMessage = new MimeMessage(session);
+
+        email.setFrom(new InternetAddress(from));
+        email.addRecipient(javax.mail.Message.RecipientType.TO,
+                new InternetAddress(to));
+        email.setSubject(subject);
+        email.setText(bodyText);
+        return email;
+    
+    </script>
+</head>
+<body>
+
+</body>
+
+
+
+</html>
